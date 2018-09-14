@@ -7,7 +7,7 @@ Released for free under a Creative Commons Attribution 2.5 License
 body {
 	margin: 0;
 	padding: 0;
-        background:  #FFFFFF url(https://sebastian-schreiber.github.io/bg01.jpg) no-repeat top;
+        background:  #FFFFFF url(https://sebastian-schreiber.github.io/images/bg01.jpg) no-repeat top;
 	background-size: 100%;
 	font-size: 13px;
 	color: #7F7F7F;
@@ -186,7 +186,7 @@ a:hover {
 
 .post {
 	padding: 20px 20px;
-	background: url(https://sebastian-schreiber.github.io/bg04.jpg) no-repeat top left;
+	background: url(https://sebastian-schreiber.github.io/images/bg04.jpg) no-repeat top left;
 }
 
 .title {
@@ -207,12 +207,12 @@ a:hover {
 
 .meta .more {
 	padding-left: 20px;
-	background: url(https://sebastian-schreiber.github.io/img03.gif) no-repeat left center;
+	background: url(https://sebastian-schreiber.github.io/images/img03.gif) no-repeat left center;
 }
 
 .meta .comments {
 	padding-left: 20px;
-	background: url(https://sebastian-schreiber.github.io/img04.gif) no-repeat left center;
+	background: url(https://sebastian-schreiber.github.io/images/img04.gif) no-repeat left center;
 }
 
 /* Sidebar */
@@ -243,7 +243,7 @@ a:hover {
 #sidebar h2 {
 	margin: 0;
 	padding: 5px 0 0 20px;
-	background: url(https://sebastian-schreiber.github.io/img06.jpg) no-repeat left 80%;
+	background: url(https://sebastian-schreiber.github.io/images/img06.jpg) no-repeat left 80%;
 }
 
 #sidebar a {
@@ -297,7 +297,7 @@ a:hover {
 	clear: both;
 	margin: 0px;
 	height: 80px;
-	background: #F2F2F2 url(https://sebastian-schreiber.github.io/bg02.jpg) repeat-x left top;
+	background: #F2F2F2 url(https://sebastian-schreiber.github.io/images/bg02.jpg) repeat-x left top;
 }
 
 #footer p {
