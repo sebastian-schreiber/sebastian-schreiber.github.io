@@ -1,0 +1,87 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Sebastian Schreiber</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="default.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+
+<!-- start body -->
+<body>
+<!-- start header -->
+<div id="header">
+	<div id="logo"> 
+		<h1><a href="#">Sebastian Schreiber</a></h1>
+		<h2><a href="http://www.freecsstemplates.org/">Dynamics of Ecological and Evolutionary Processes</a></h2>
+	</div>
+	
+	<div id="menu">
+	<ul>
+	<li class="active"><a href="index.shtml">Home</a></li>
+		       	<li><a href="deep.shtml">Lab</a></li>
+			<li><a href="pubs.shtml">Pubs</a></li>
+			<li><a href="grants.shtml">Grants </a></li>
+			<li><a href="gallery.shtml">Gallery </a></li>
+	</ul>
+	</div>
+</div>
+<!-- end header -->
+
+<!-- start page -->
+<div id="page">
+
+<!-- start content -->
+
+<div id="content">
+	
+ <p><img src="images/lizards.jpg" width="225" height="225" img align=left hspace="10">  Welcome to my corner of the web! I am a theoretical ecologist and
+  mathematician. My research interests focus on understanding the feedbacks between community structure, population
+  dynamics, and evolutionary processes. To achieve this understanding,
+  I construct mathematical models and uncover their emergent
+  properties using analytical methods and numerical
+  simulations.  </p>
+
+ 
+
+ <p>Current projects include understanding (a) how spatial-temporal
+ variation and individual heterogeneity influence population
+ viability, community dynamics, and evolutionary responses to limiting factors, (b) the evolutionary dynamics of invasion and escape,  and (c) how feedbacks between ecological and evolutionary processes influence the stability of ecological communities. These projects use techniques from dynamical
+  systems, ergodic theory, and stochastic processes plus a large healthy dose of numerical simulations.</p>
+
+  <p>I am currently accepting graduate
+	students through the <a href="http://www.math.ucdavis.edu/grad/ggam">Graduate  
+	Group in Applied Mathematics</a>, the <a
+	href="http://ecology.ucdavis.edu/"> Ecology Graduate Group </a>,  and the <a
+	href="http://www.eve.ucdavis.edu/eve/pbg/">Population Biology
+		       Graduate Group</a>. Please contact me if interested.  </p>
+<p> I serve on the editorial boards of <a href="http://www.aimsciences.org/journals/dcdsB/"> Discrete and Continuous Dynamical Systems B</a>, <a href="http://esapubs.org/"> Ecology/Ecological Monographs</a>, <a href="http://www.springer.com/mathematics/mathematical+biology/journal/285"> Journal of Mathematical Biology</a>, <a href="http://www.tandf.co.uk/journals/titles/17513758.asp"> Journal of Biological Dynamics</a>, and <a href="http://www.springer.com/life+sci/ecology/journal/12080"> Theoretical Ecology</a>.</p>
+		       
+<b> Contact Info:</b>  <a href="http://web.eve.ucdavis.edu/"> Department of Evolution
+    & Ecology</a>, One Shields Avenue,
+University of California,
+Davis, California 95616; 
+<a href="mailto:nobody@ucdavis.edu">sschreiber@ucdavis.edu</a>; (530) 754-9229
+
+	</div>
+	<!-- end content -->
+
+
+<!-- THE SIDE BAR -->
+<!--#include file="sidebar.shtml" -->
+
+
+	</div>
+        <!-- end page -->
+
+<!--THE FOOTER AND COUNTER  -->
+<!--#include file="footer.shtml" -->
+
+               
+<!-- end body & document -->
+</body>
+</html>
+
+
+
